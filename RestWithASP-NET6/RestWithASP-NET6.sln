@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestWithASP-NET6-UDEMY", "RestWithASP-NET6-UDEMY\RestWithASP-NET6-UDEMY.csproj", "{934D4E9C-E5AB-4635-80C0-80FF1BAC386B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{934D4E9C-E5AB-4635-80C0-80FF1BAC386B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{934D4E9C-E5AB-4635-80C0-80FF1BAC386B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{934D4E9C-E5AB-4635-80C0-80FF1BAC386B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{934D4E9C-E5AB-4635-80C0-80FF1BAC386B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D21F0020-1160-439A-8407-EBBD50B9127F}
+	EndGlobalSection
+EndGlobal
