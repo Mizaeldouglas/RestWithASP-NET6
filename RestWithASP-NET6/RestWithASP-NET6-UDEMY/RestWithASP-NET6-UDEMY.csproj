@@ -7,4 +7,10 @@
     <RootNamespace>RestWithASP_NET6_UDEMY</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="Models\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Models\" />
+  </ItemGroup>
 </Project>
